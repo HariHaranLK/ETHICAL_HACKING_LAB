@@ -22,7 +22,7 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-###SERVER CODE
+### SERVER CODE
 ```
 #echo-server.py
 import socket
@@ -40,7 +40,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                 break
             conn.sendall(data)
 ```
-###CLIENT CODE
+### CLIENT CODE
 ```
 # echo-client.py
 import socket
@@ -53,9 +53,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 ```
 ## OUTPUT:
-###SERVER OUTPUT
+### SERVER OUTPUT
 ![serv](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/5ad1e211-f275-4497-b3a2-dd83cd40bbf7)
-###CLIENT OUTPUT
+### CLIENT OUTPUT
 ![clie](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/dd61c636-79db-4c5a-93f7-3a02c253a4f9)
 
 ## RESULT:
