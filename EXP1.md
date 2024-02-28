@@ -1,5 +1,10 @@
 # Ethicka-Hacking-Techniques---19CS417-
 Ethicka Hacking Techniques - 19CS417 
+```
+HARI HARAN L K
+212221040051
+CSE (III)
+```
 # Echoserver
 Echo server and client using python socket
 
