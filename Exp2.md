@@ -1,6 +1,10 @@
 # InformationGathering
 Information Gathering Techiques
-
+```
+HARI HARAN L K
+212221040051
+CSE (III)
+```
 # To perform information gathering techniques
 
 # AIM:
