@@ -1,4 +1,4 @@
-# Ethicka-Hacking-Techniques---19CS417-
+# Ethical-Hacking-Techniques---19CS417-
 Ethicka Hacking Techniques - 19CS417 
 ```
 HARI HARAN L K
