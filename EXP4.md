@@ -21,7 +21,7 @@ Open terminal and try execute some kali linux commands
 
 ## ARP Attacks:  
 ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC address with an IP of a computer already on the LAN. 
-Boot kali and Windows7 virtual machines.
+Boot kali and Windows11 virtual machines.
 In windows 11 give the command arp -a
 ### OUTPUT:
 ![1](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/a9ccbd51-db7d-4d35-810d-b29c5d6eda39)
