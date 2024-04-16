@@ -32,23 +32,25 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 ### OUTPUT:
 
-![arpspoof](/image/arpspoof.png)
+![image](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/8fcd5095-b08c-4dd9-8b40-5ec033bc9779)
+
 ###  dsniff:
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ### OUTPUT:
 
-![ftp](/image/ftp.png)
+![image](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/49bb7298-af00-4e43-8181-cd4000a27989)
 
 
 In Kali issue the following commands:
 sudo dsnifff
 ### OUTPUT:
 
-![dsniff](/image/dsniff.png)
+![image](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/ec26f1b7-8a64-456a-bd07-332158a7fef1)
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
-![wireshark](/image/wireshark.png)
+![image](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/b78ad25c-97f7-4e56-b01e-16b0854f94f1)
+
 ### RESULT:
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
