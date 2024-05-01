@@ -1,15 +1,11 @@
-# Ethical-Hacking-Techniques---19CS417-
-Ethicka Hacking Techniques - 19CS417 
-```
-HARI HARAN L K
-212221040051
-CSE (III)
-```
+# EX.No : 1 Simple echo server and client using Python socket
+## DATE : 17/02/2024
+## REG NO : 212221040051
+
 # Echoserver
 Echo server and client using python socket
 
 # AIM:
-
 To develop a simple webserver to serve html programming pages.
 
 ## DESIGN STEPS:
@@ -25,7 +21,7 @@ Implementation using Python code
 ### Step 3:
 
 Testing the server and client 
-
+<br><br><br><br><br><br><br><br><br>
 ## PROGRAM:
 ### SERVER CODE
 ```
@@ -57,11 +53,12 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     data = s.recv(1024)
 print(f"Received {data!r}")
 ```
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ## OUTPUT:
 ### SERVER OUTPUT
 ![serv](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/5ad1e211-f275-4497-b3a2-dd83cd40bbf7)
 ### CLIENT OUTPUT
 ![clie](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/dd61c636-79db-4c5a-93f7-3a02c253a4f9)
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## RESULT:
-The program is executed successfully
+The Simple Echo Server and Client Using Python Socket is created, executed and output is verified successfully.
