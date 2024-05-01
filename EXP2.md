@@ -1,12 +1,6 @@
-# InformationGathering
-Information Gathering Techiques
-```
-HARI HARAN L K
-212221040051
-CSE (III)
-```
-# To perform information gathering techniques
-
+# Exp.No 2 Information Gathering Techiques
+# DATE: 24/02/2024
+# REG NO : 212221040051
 # AIM:
 
 To perform information gathering techniques using kali linux 
